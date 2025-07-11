@@ -63,6 +63,12 @@ header p {
 .cta a:hover {
     background: #333;
 }
+ul {
+    margin-top: 1rem; 
+    margin-bottom: 1rem; 
+    padding-left: 1.2rem; 
+    line-height: 1.8;
+}
 footer {
     text-align: center;
     padding: 2rem;
